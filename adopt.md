@@ -3,10 +3,10 @@ layout: page
 title: Adopt
 subtitle: Adopt a new friend today!
 cover-img: /assets/img/adopt-a-friend.jpg
-# redirect_to: http://go.bfarak.com/adopt
+# redirect_to: https://airtable.com/shrTMsZSTnYwwfWqP
 ---
 
-[Apply here!](http://go.bfarak.com/adopt){:class="btn btn-success btn-lg"}
+[Apply here!](https://airtable.com/shrTMsZSTnYwwfWqP){:class="btn btn-success btn-lg"}
 
 ### Adoption Process
 
@@ -16,7 +16,7 @@ cover-img: /assets/img/adopt-a-friend.jpg
 
 ### Application
 
-[Apply here!](http://go.bfarak.com/adopt)
+[Apply here!](https://airtable.com/shrTMsZSTnYwwfWqP)
 
 ### Other ways to help
 
